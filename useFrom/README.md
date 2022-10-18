@@ -1,0 +1,6 @@
+# useForm
+
+Example:
+...
+    const {formValues, handleInputChange, reset } = useFrom( initialForm );
+...
